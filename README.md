@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+1. create a repository on github
+2. clone the URL in git bash
+3. go into the cloned repository and type "code .".
+4. add the necessary files to your repository and stage the files you want to push.
+5. go to the git bash terminal and run 'git commit -m "new files added 3"'
+6. to push the files use: "git push"
